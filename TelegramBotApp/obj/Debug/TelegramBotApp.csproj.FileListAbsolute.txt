@@ -1,0 +1,2 @@
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\TelegramBotApp\TelegramBotApp\obj\Debug\TelegramBotApp.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\TelegramBotApp\TelegramBotApp\obj\Debug\TelegramBotApp.csproj.CoreCompileInputs.cache
